@@ -1,3 +1,2 @@
-print("Hello, Ruby.\n")
-puts 2 + 4
-puts 'Hello'
+print("Hello, \nRuby.\n")
+print("Hello, \"Ruby\".\n")
